@@ -1,0 +1,28 @@
+{
+  "name": "FloInput",
+  "version": "1.0.0",
+  "description": "A input resource for FiveM",
+  "main": "index.js",
+  "scripts": {
+    "build": "npm run clearbuild && npm run typecheck && node build/build-bundle.js",
+    "clearbuild": "rimraf html/dist",
+    "typecheck": "tsc --noEmit -p tsconfig.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FRFlo/input.git"
+  },
+  "author": "FRFlo",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/FRFlo/input/issues"
+  },
+  "homepage": "https://github.com/FRFlo/input#readme",
+  "devDependencies": {
+    "@types/jquery": "^3.5.16",
+    "@types/node": "^20.3.1",
+    "esbuild": "^0.18.8",
+    "rimraf": "^5.0.1",
+    "typescript": "^5.1.3"
+  }
+}
