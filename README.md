@@ -1,5 +1,10 @@
 # FloInput
 
+## Credits
+
+This resource was partially created by [Eki](https://github.com/Ekinoxx0) for his own server.
+I decided to remake everything from scratch and add some features.
+
 ## Installation
 
 To install FloInput, simply run the following command:
