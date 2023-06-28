@@ -1,5 +1,7 @@
 # FloInput
 
+CFX Post: https://forum.cfx.re/t/floinput-a-lightweight-fast-and-fun-input-system/
+
 ## Credits
 
 This resource was partially created by [Eki](https://github.com/Ekinoxx0) for his own server.
