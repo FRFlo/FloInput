@@ -7,6 +7,19 @@ CFX Post: https://forum.cfx.re/t/floinput-a-lightweight-fast-and-fun-input-syste
 This resource was partially created by [Eki](https://github.com/Ekinoxx0) for his own server.
 I decided to remake everything from scratch and add some features.
 
+## Implementation
+
+If you want to integrate FloInput into your own server, you can submodule this repository into your `resources` folder and add the following line to your `server.cfg`:
+
+```bash
+git submodule add https://github.com/FRFlo/FloInput resources/FloInput
+git submodule update --init --recursive
+```
+
+```cfg
+ensure FloInput
+```
+
 ## Installation
 
 To install FloInput, simply run the following command:
