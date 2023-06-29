@@ -7,6 +7,8 @@ CFX Post: https://forum.cfx.re/t/floinput-a-lightweight-fast-and-fun-input-syste
 This resource was partially created by [Eki](https://github.com/Ekinoxx0) for his own server.
 I decided to remake everything from scratch and add some features.
 
+**Edit:** Figured out the code used by the french developer is a resource by [@Mietek](https://forum.cfx.re/u/mmleczek), the original resource is [here](https://github.com/mmleczek/mmkeyboard-lua).
+
 ## Features
 * Lightweight library.
 * Event-based callbacks.
